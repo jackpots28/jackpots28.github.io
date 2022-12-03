@@ -28,7 +28,7 @@ url: "abyssal-deep.com" # the base hostname & protocol for your site, e.g. http:
 github_username:  jackpots28
 
 # Build settings
-theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
