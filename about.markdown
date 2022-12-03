@@ -1,6 +1,5 @@
 ---
 layout: page
-title: -- Fill Title --
 title: About
 permalink: /about/
 ---
