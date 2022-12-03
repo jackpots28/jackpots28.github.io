@@ -31,6 +31,7 @@ github_username:  jackpots28
 theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
+  - jekyll-theme-slate
 
 # Exclude from processing.
 # The following items will not be processed, by default.
