@@ -28,10 +28,9 @@ url: "abyssal-deep.com" # the base hostname & protocol for your site, e.g. http:
 github_username:  jackpots28
 
 # Build settings
-theme: jekyll-theme-slate
+theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-theme-slate
 
 # Exclude from processing.
 # The following items will not be processed, by default.
