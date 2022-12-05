@@ -17,7 +17,7 @@ paginate_path: "/blog/page:num/"
 remote-theme: tareqdandachi/jekyll-shell-theme
 # theme: minima
 plugins:
-  - jekyll-remote-theme
+  #- jekyll-remote-theme
   - jekyll-feed
   - jekyll-paginate
 
