@@ -14,7 +14,7 @@ paginate: 5
 paginate_path: "/blog/page:num/"
 # Build settings
 # remote_theme: tareqdandachi/jekyll-shell-theme
-remote_theme: pages-themes/slate@v0.2.0
+remote-theme: tareqdandachi/jekyll-shell-theme
 # theme: minima
 plugins:
   - jekyll-remote-theme
