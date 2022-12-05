@@ -29,7 +29,7 @@ github_username:  jackpots28
 instagram_username: xblackjack28x
 
 # Build settings
-theme: minima
+theme: Slate
 plugins:
   - jekyll-feed
 
