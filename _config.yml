@@ -13,7 +13,7 @@ domain: abyssal-deep.com
 paginate: 5
 paginate_path: "/blog/page:num/"
 # Build settings
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: tareqdandachi/jekyll-shell-theme
 # theme: minima
 plugins:
   - jekyll-feed
