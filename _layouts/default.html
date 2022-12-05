@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+
+  {% include head.html %}
+  <style>
+    :root { --bg-color: #262626; }
+  </style>
+  {% include nav.html %}
+
+  <body class="{{ site.font-size }}">
+
+    {% include header.html %}
+
+    {{ content }}
+
+    {% include footer.html %}
+   
+  </body>
+</html>
