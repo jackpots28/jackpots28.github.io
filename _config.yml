@@ -17,6 +17,7 @@ paginate_path: "/blog/page:num/"
 remote_theme: mmistakes/jekyll-theme-basically-basic
 # theme: minima
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-paginate
 
