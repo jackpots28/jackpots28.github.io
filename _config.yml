@@ -10,8 +10,10 @@ github_username:  jackpots28
 instagram_username: xblackjack28x
 domain: abyssal-deep.com
 
-paginate: 3
-paginate_path: ""
+header_pages:
+- index.MD
+- about.md
+
 # Build settings
 # remote_theme: tareqdandachi/jekyll-shell-theme
 # remote-theme: tareqdandachi/jekyll-shell-theme
