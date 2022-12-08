@@ -7,19 +7,13 @@ domain: abyssal-deep.com
 url: https://abyssal-deep.com
 
 description: > # this means to ignore newlines until "show_excerpts:"
-
-show_excerpts: false # set to true to show excerpts on the homepage
 -- Filler Description --
+show_excerpts: false # set to true to show excerpts on the homepage
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
   date_format: "%b %-d, %Y"
 
-  # generate social links in footer
-  social_links:
-    - { platform: github,         user_url: "https://github.com/jekyll/minima" }
-    - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
-    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jekyll" }
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
