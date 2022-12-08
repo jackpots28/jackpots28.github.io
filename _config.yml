@@ -2,6 +2,10 @@ title: Abyssal-deep
 author: Jack Sims
   name: jackpots28
   email: jack.sims@abyssal-deep.com
+  
+domain: abyssal-deep.com
+url: https://abyssal-deep.com
+
 description: > # this means to ignore newlines until "show_excerpts:"
 
 show_excerpts: false # set to true to show excerpts on the homepage
