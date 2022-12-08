@@ -1,29 +1,3 @@
-<!--
-<!DOCTYPE html>
-
-<html lang="en-US">
-
-  {% include head.html %}
-  <style>
-    :root { --bg-color: #5f3c5f; }
-  </style>
-  {% include nav.html %}
-
-  <body class="{{ site.font-size }}">
-
-    {% include header.html %}
-
-    {{ content }}
-
-    {% include footer.html %}
-   
-  </body>
-</html>
--->
----
-layout: default
----
-
 <div class="home">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
