@@ -1,12 +1,12 @@
-title: Abyssal-Deep
+title: Abysmally Deep Blog
 email: jack.sims@abyssal-deep.com
 description: >- # this means to ignore newlines until "baseurl:"
-  -- Filler Description Here -- 
+ 
 baseurl: "/" 
 url: "https://abyssal-deep.com" # the base hostname & protocol for site
 
-github_username:  jackpots28
-instagram_username: xblackjack28x
+#github_username:  jackpots28
+#instagram_username: xblackjack28x
 domain: abyssal-deep.com
 
 
