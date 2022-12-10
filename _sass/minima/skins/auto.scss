@@ -121,7 +121,7 @@ $dm-link-base-color:       #BCDBFF !default;
 $dm-link-visited-color:    $dm-link-base-color !default;
 $dm-link-hover-color:      $dm-text-color !default;
 
-$dm-border-color-01:       $dm-brand-color-dark !default;
+$dm-border-color-01:       lighten($dm-brand-color-dark, 30%) !default;
 $dm-border-color-02:       $dm-brand-color-light !default;
 $dm-border-color-03:       $dm-brand-color !default;
 
