@@ -1,7 +1,7 @@
 title: Abysmally Deep Blog
 email: jack.sims@abyssal-deep.com
 description: >- # this means to ignore newlines until "baseurl:"
- 
+A personal [systemd-journald.service] - Not purely inclusive to CompSci Topics
 baseurl: "/" 
 url: "https://abyssal-deep.com" # the base hostname & protocol for site
 
