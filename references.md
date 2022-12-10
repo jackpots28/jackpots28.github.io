@@ -3,6 +3,9 @@ layout: page
 title: References
 permalink: /references/
 ---
-<p><u>Advanced Bash Scripting : Vol 1</u> - Mendel Cooper (Independently Published)</p>
-<p><u>The Linux Programming Interface</u> - Michael Kerrisk (No Starch Press)</p>
-<p><u>Modern x86 Assembly Language Programming</u> - Daniel Kusswurm (Apress)</p>
+<p>The internet has cultivated a beautiful place to gather information, but there's nothing quite like having a few pounds of books at your disposal</p>
+<hr>
+<p>"Advanced Bash Scripting : Vol 1" - Mendel Cooper (Independently Published)</p>
+<p>"The Linux Programming Interface" - Michael Kerrisk (No Starch Press)</p>
+<p>"Modern x86 Assembly Language Programming" - Daniel Kusswurm (Apress)</p>
+<p>"Kubernetes: Up & Running" - Burns, Beda, Hightower, Evenson (O'Reilly)</p>
