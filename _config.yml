@@ -15,6 +15,7 @@ domain: abyssal-deep.com
 header_pages:
 # - index.md
  - about.md
+ - references.md
 
 minima:
   social_links:
