@@ -109,15 +109,15 @@ $lm-table-border-color:    $lm-border-color-01 !default;
 // Dark mode
 // ---------
 
-$dm-brand-color:           #300A24 !default;
+$dm-brand-color:           #76323F !default;
 $dm-brand-color-light:     lighten($dm-brand-color, 11%) !default;
 $dm-brand-color-dark:      darken($dm-brand-color, 41%) !default;
 
 
 $dm-site-title-color:      $dm-brand-color-light !default;
 
-$dm-text-color:            #BDBDBD !default;
-$dm-background-color:      #1A191C !default;
+$dm-text-color:            #E7DFDD !default;
+$dm-background-color:      #0E0B16 !default;
 $dm-code-background-color: #212121 !default;
 
 $dm-link-base-color:       #BCDBFF !default;
