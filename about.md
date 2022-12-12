@@ -3,8 +3,14 @@ layout: page
 title: About
 permalink: /about/
 ---
-<div class="container" style="display: flex; height: 100px;">
-        <div style="flex-grow:1; background: green;">
+<style>
+    img{
+        width:50%;
+    }
+</style>
+
+<div class="container" style="display: flex; flex-wrap: wrap; height: 500px;">
+        <div style="width: 50%; background: green;">
             <h2>Jack Sims</h2>
             <p>Background filler text about myself and such.</p>
         </div>
