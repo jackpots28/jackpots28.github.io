@@ -10,5 +10,6 @@ permalink: /about/
         </div>
         <div style="flex-grow: 1; background: blue;">
             <p>I plan on putting some photos on this side; like of myself and other things</p>
+            <img src="/assets/images/pfp.JPG" />
         </div>
 </div>
