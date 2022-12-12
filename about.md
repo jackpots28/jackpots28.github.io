@@ -14,7 +14,7 @@ permalink: /about/
             <h2>Jack Sims</h2>
             <p>Background filler text about myself and such.</p>
         </div>
-        <div style="flex: 1; margin-left: auto; margin-right: 0;">
+        <div align="right" style="flex: 1; margin-left: auto; margin-right: 0;">
             <p>A picture of me.</p>
             <img src="/assets/images/pfp.JPG" />
         </div>
