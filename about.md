@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 <div class="container" style="display: flex; height: 100px;">
-        <div style="flex-grow:2; background: green;">
+        <div style="flex-grow:1; background: green;">
             <h2>Jack Sims</h2>
             <p>Background filler text about myself and such.</p>
         </div>
