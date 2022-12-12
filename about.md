@@ -3,9 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
-<table style="width:0%">
-    <tr>
-        <td><h2>Jack Sims</h2></td>
-        <td><p>Backstory Filler</p></td>
-    </tr>
-</table>
+<div class="container" style="display: flex; height: 100px;">
+        <div style="width: 50%; background: green;">
+            Left Div
+        </div>
+        <div style="flex-grow: 1; background: blue;">
+            Right Div
+        </div>
+</div>
