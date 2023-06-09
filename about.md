@@ -13,6 +13,7 @@ permalink: /about/
         <div style="flex: 0 0 50%;">
             <h2>Jack Sims</h2>
             <p>Background filler text about myself and such.</p>
+	    <p>More info about the work I do</p>
         </div>
         <div align="right" style="flex: 0 0 50%;">
             <p>A picture of me.</p>
