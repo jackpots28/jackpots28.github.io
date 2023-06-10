@@ -255,7 +255,7 @@ table {
   text-align: $table-text-align;
   color: $table-text-color;
   border-collapse: collapse;
-  border: 1px solid $table-border-color;
+  border: 0px solid $table-border-color;
   tr {
     &:nth-child(even) {
       background-color: $table-zebra-color;
