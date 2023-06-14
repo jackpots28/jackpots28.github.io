@@ -4,14 +4,14 @@ title: Resume
 permalink: /resume/
 ---
 <style> 
-    table { border: 0 #0E0B16; text-align: center; font-size: 12px }
+    table { border: 0 #0E0B16; text-align: center; font-size: 13px }
     tr { background-color: #0E0B16; border: 0; } 
 
-    pre { background: rgba(14,11,22,0.93); font-size: 12px; }
+    pre { background: rgba(14,11,22,0.93); font-size: 13px; }
     p { font-size: 12px; }
 
     li { margin-bottom: 1px; }
-    ul { margin-bottom: 1px; line-height: 105% }
+    ul { margin-bottom: 1px; line-height: 107% }
 </style>
 
 <pre style="white-space: pre-wrap">
@@ -37,15 +37,12 @@ Github: <a href="https://www.github.com/jackpots28" target="_blank" rel="noopene
         <td>Hardware Components</td>
     </tr>
     <tr>
-        <td>Virtualization Concepts</td>
+        <td>Disaster Recovery, Backup, Security Hardening</td>
         <td>Open-Storage, SAN Infrastructure</td>
     </tr>
     <tr>
-        <td>Networking Concepts</td>
+        <td>Networking</td>
         <td>Debugging, Troubleshooting, Documentation</td>
-    </tr>
-    <tr>
-        <td>Disaster Recovery, Backup, Security Hardening</td>
     </tr>
 </table>
 </div>
@@ -54,10 +51,10 @@ Github: <a href="https://www.github.com/jackpots28" target="_blank" rel="noopene
 
 <h3>Work Experience</h3>
 
-<h4>Current:</h4>
+<h4>Systems Engineer (Unix/Linux)</h4>
 
-Systems Engineer (Linux/Unix), Dillard's Headquarters
-Little Rock AR - Jan 2023, Current
+<h5>Systems Engineer (Linux/Unix), Dillard's Headquarters
+Little Rock AR - Jan 2023, Current</h5>
 
 (Abstract) Our team sets up and maintains the companies core business infrastructure including Open-Storage Systems, Containerization/Virtualization platforms for our eCommerce/mobile app site, and backing disaster recovery software/procedures
 
@@ -91,7 +88,7 @@ Little Rock AR - Jan 2023, Current
     <li>Experience in project management, application design and integration
         <ul>
             <li>Taking ownership of team based priority projects: canvasing for required information before and during project phases, assigning ownership to portions of workload, ensuring knowledge is diffused about the required skills to complete tasks</li>
-            <li>Coordinating with other teams such as database admins and developers during investigative research for performance tuning, and planned maintenance outages/failovers</li>
+            <li>Coordinating with other teams such as database admins and developers during investigative research for performance tuning, and planned maintenance outages/fail overs</li>
         </ul>
     </li>
 </ul>
@@ -104,7 +101,7 @@ Little Rock AR - Jan 2023, Current
     <li>Assist with the company's ML(AI) Infrastructure for merchandise logistics
         <ul>
             <li>Our Enterprise Architect is the sole designer of these projects and leads the direction of what tools our data scientists utilize</li>
-            <li>With this, they allow our team to assist in the management of lab setups and clustering of hosts for resource allocation. Our architect also keeps us informed as to what projects are occurring and the new tools being researched (Our Data Science team single handedly degraded the need for annual sales on overstock merchandise)</li>
+            <li>With this, they allow our team to assist in the management of lab setups and clustering of hosts for resource allocation. Our architect also keeps us informed as to what projects are occurring and the new tools being researched (Our Data Science team single-handed-ly degraded the need for annual sales on overstock merchandise)</li>
         </ul>
     </li>
 </ul>
@@ -130,7 +127,7 @@ Little Rock AR - May 2021 to Dec 2022
     </li>
     <li>Was incharge of training new hires in our daily processes and worked closely with area management during hardware rollouts and routine weather related outages
         <ul>
-            <li>Wrote documentation for training procedures to streamline/unifiy our groups understanding of software and hardware components we supported</li>
+            <li>Wrote documentation for training procedures to streamline/unify our groups understanding of software and hardware components we supported</li>
         </ul>
     </li>
 </ul>

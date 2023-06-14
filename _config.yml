@@ -12,7 +12,7 @@ url: "https://abyssal-deep.com" # the base hostname & protocol for site
 domain: abyssal-deep.com
 
 header_pages:
- - index.md
+ # - index.md
  - about.md
  - resume.md
  - references.md
