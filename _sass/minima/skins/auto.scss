@@ -109,6 +109,11 @@ $lm-table-border-color:    $lm-border-color-01 !default;
 // Dark mode
 // ---------
 
+// #323232 - Dark brown
+// #FAFBF6 - Near white
+// #9F9F9F - greyer then "near white"
+// #6997AF - light blue'ish
+
 $dm-brand-color:           #A14355 !default;
 $dm-brand-color-light:     lighten($dm-brand-color, 24%) !default;
 $dm-brand-color-dark:      darken($dm-brand-color, 41%) !default;
