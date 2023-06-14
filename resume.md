@@ -113,8 +113,8 @@ Little Rock AR - Jan 2023, Current</h6>
     how I worked well enough to move positions in 1.5yr from Support to Engineer -->
 
 <h4>Prior:</h4>
-Support Analyst Lvl 2/3, Dillard's Headquarters
-Little Rock AR - May 2021 to Dec 2022
+<h6>Support Analyst Lvl 2/3, Dillard's Headquarters
+Little Rock AR - May 2021 to Dec 2022</h6>
 <pre style="white-space: pre-wrap">
 <ul>
     <li>Supply Excellent Level 2/3 technical assistance/troubleshooting
