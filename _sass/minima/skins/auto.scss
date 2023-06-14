@@ -109,20 +109,21 @@ $lm-table-border-color:    $lm-border-color-01 !default;
 // Dark mode
 // ---------
 
-// #323232 - Dark brown
+// New ideas on color scheme
+// #302F2F - Dark brown
 // #FAFBF6 - Near white
 // #9F9F9F - greyer then "near white"
 // #6997AF - light blue'ish
 
-$dm-brand-color:           #A14355 !default;
-$dm-brand-color-light:     lighten($dm-brand-color, 24%) !default;
-$dm-brand-color-dark:      darken($dm-brand-color, 41%) !default;
+$dm-brand-color:           #6997AF !default; // was #6997AF
+$dm-brand-color-light:     lighten($dm-brand-color, 80%) !default;
+$dm-brand-color-dark:      darken($dm-brand-color, 45%) !default;
 
 
 $dm-site-title-color:      $dm-brand-color-light !default;
 
 $dm-text-color:            #E7DFDD !default;
-$dm-background-color:      #0E0B16 !default;
+$dm-background-color:      #302F2F !default; // was #0E0B16
 $dm-code-background-color: #212121 !default;
 
 $dm-link-base-color:       #BCDBFF !default;
