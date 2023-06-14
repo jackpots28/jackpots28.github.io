@@ -264,10 +264,10 @@ table {
   }
   th {
     background-color: $table-header-bg-color;
-    border: 1px solid $table-header-border;
+    border: 0px solid $table-header-border;
   }
   td {
-    border: 1px solid $table-border-color;
+    border: 0px solid $table-border-color;
   }
 
   @include media-query($on-laptop) {

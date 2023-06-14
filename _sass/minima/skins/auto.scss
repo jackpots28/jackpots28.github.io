@@ -1,6 +1,5 @@
 @charset "utf-8";
 
-// Default color scheme settings
 // These are overridden in classic.css and dark.scss
 
 $color-scheme-auto: true !default;
@@ -34,9 +33,6 @@ $lm-table-header-bg-color: lighten($lm-brand-color, 43%) !default;
 $lm-table-header-border:   lighten($lm-brand-color, 37%) !default;
 $lm-table-border-color:    $lm-border-color-01 !default;
 
-
-// Syntax highlighting styles should be adjusted appropriately for every "skin"
-// ----------------------------------------------------------------------------
 
 @mixin lm-highlight {
   .highlight {
@@ -141,12 +137,6 @@ $dm-table-header-border:   lighten($dm-background-color, 21%) !default;
 $dm-table-border-color:    $dm-border-color-01 !default;
 
 
-// Syntax highlighting styles should be adjusted appropriately for every "skin"
-// List of tokens: https://github.com/rouge-ruby/rouge/wiki/List-of-tokens
-// Some colors come from Material Theme Darker:
-// https://github.com/material-theme/vsc-material-theme/blob/master/scripts/generator/settings/specific/darker-hc.ts
-// https://github.com/material-theme/vsc-material-theme/blob/master/scripts/generator/color-set.ts
-// ----------------------------------------------------------------------------
 
 @mixin dm-highlight {
   .highlight {
@@ -216,9 +206,7 @@ $dm-table-border-color:    $dm-border-color-01 !default;
 // Mode selection
 // --------------
 
-
 // Classic skin (always light mode)
-// Assign outside of the if construct to establish global variable scope
 
 $brand-color: $lm-brand-color;
 $brand-color-light: $lm-brand-color-light;
