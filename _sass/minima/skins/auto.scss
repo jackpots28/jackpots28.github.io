@@ -113,7 +113,7 @@ $lm-table-border-color:    $lm-border-color-01 !default;
 
 $dm-brand-color:           #6997AF !default; // was #6997AF
 $dm-brand-color-light:     lighten($dm-brand-color, 80%) !default;
-$dm-brand-color-dark:      darken($dm-brand-color, 45%) !default;
+$dm-brand-color-dark:      darken($dm-brand-color, 25%) !default;
 
 
 $dm-site-title-color:      $dm-brand-color-light !default;

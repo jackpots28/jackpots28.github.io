@@ -49,16 +49,16 @@ Github: <a href="https://www.github.com/jackpots28" target="_blank" rel="noopene
 
 ---
 
-<h3><u>Work Experience:</u></h3>
+<h4><u>Work Experience:</u></h4>
 
-<h4>Systems Engineer (Unix/Linux)</h4>
+<h5>Systems Engineer (Unix/Linux)</h5>
 
-<h5>Systems Engineer (Linux/Unix), Dillard's Headquarters
-Little Rock AR - Jan 2023, Current</h5>
+<h6>Systems Engineer (Linux/Unix), Dillard's Headquarters
+Little Rock AR - Jan 2023, Current</h6>
 
-<h5>(Abstract) Our team sets up and maintains the companies core business infrastructure including Open-Storage Systems, Containerization/Virtualization platforms for our eCommerce/mobile app site, and backing disaster recovery software/procedures</h5>
+<h6>(Abstract) Our team sets up and maintains the companies core business infrastructure including Open-Storage Systems, Containerization/Virtualization platforms for our eCommerce/mobile app site, and backing disaster recovery software/procedures</h6>
 
-<h4>Typical Workload / Experience:</h4>
+<h5>Typical Workload / Experience:</h5>
 <pre style="white-space: pre-wrap">
 <ul>
     <li>Conduct high-level root-cause analysis of service interruptions and establish preventive measures</li>
