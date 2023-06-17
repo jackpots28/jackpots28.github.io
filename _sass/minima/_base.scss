@@ -255,9 +255,9 @@ table {
   text-align: $table-text-align;
   color: $table-text-color;
   border-collapse: collapse;
-  border: 0px solid #0E0B16;
+  border: 0px solid #E6E6E6;
   tr {
-      background-color: #0E0B16
+      background-color: #E6E6E6
   }
   th, td {
     padding: ($spacing-unit / 3) ($spacing-unit / 2);
