@@ -7,7 +7,7 @@ permalink: /resume/
     table { border: 0 #0E0B16; text-align: center; font-size: 13px }
     tr { background-color: #0E0B16; border: 0; } 
 
-    pre { background: rgba(14,11,22,0.93); font-size: 13px; }
+    pre { background: #E6E6E6; font-size: 13px; }
     p { font-size: 12px; }
 
     li { margin-bottom: 1px; }
