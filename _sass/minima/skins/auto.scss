@@ -111,7 +111,7 @@ $lm-table-border-color:    $lm-border-color-01 !default;
 // #9F9F9F - greyer then "near white"
 // #6997AF - light blue'ish
 
-$dm-brand-color:           #6997AF !default; // was #6997AF
+$dm-brand-color:           #507D95 !default; // was #6997AF
 $dm-brand-color-light:     lighten($dm-brand-color, 80%) !default;
 $dm-brand-color-dark:      darken($dm-brand-color, 25%) !default;
 
@@ -120,7 +120,7 @@ $dm-site-title-color:      $dm-brand-color-light !default;
 
 $dm-text-color:            #262626 !default;
 $dm-background-color:      #FAFBF6 !default; // was #0E0B16
-$dm-code-background-color: #212121 !default;
+$dm-code-background-color: #A6A6A6 !default;
 
 $dm-link-base-color:       #BCDBFF !default;
 $dm-link-visited-color:    $dm-link-base-color !default;
