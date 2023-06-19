@@ -2,6 +2,13 @@
 layout: page
 title: Resume
 #permalink: /resume/
+redirect_from:
+  - /resume/
+  - /resume.html
+  - /resume/index.html
+  - /resume
+redirect_to: 
+  - /maintenance_page/
 ---
 <style> 
     table { border: 0 #E6E6E6; text-align: center; font-size: 13px }
