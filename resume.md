@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Resume
-permalink: /resume/
-redirect_to: /maint_page/
+# permalink: /resume/
 ---
 <style> 
     table { border: 0 #E6E6E6; text-align: center; font-size: 13px }
