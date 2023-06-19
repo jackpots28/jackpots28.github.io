@@ -14,7 +14,7 @@ domain: abyssal-deep.com
 header_pages:
  # - index.md
  - about.md
- - resume.md
+ # - resume.md
  - references.md
 
 minima:
